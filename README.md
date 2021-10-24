@@ -1,6 +1,6 @@
 # Windows Menu
 ```
-A website for practicing CSS Grids.
+It was for practicing CSS Grids.
 This site is completely designed with grids.
 ```
 >Site Preview
