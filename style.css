@@ -27,7 +27,7 @@ p{
     margin: 10px;
 }
 
-.wrapper{
+.Wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1em;
