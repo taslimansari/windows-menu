@@ -31,7 +31,6 @@ p{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1em;
-    /* overflow-x: hidden; */
 }
 
 .box1, .box3, .box2, .box4{
